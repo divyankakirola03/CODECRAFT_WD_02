@@ -1,6 +1,6 @@
-Task 2 – Password Generator
+Password Generator
 
-Description  
+Description:  
 A Python-based script that generates strong, random passwords using uppercase, lowercase, digits, and special characters — essential for secure digital protection.
 
 How to Use-
